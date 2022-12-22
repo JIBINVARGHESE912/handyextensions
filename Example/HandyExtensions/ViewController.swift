@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import HandyExtensions
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        var name:String = "Abc"
+        let result = name.isValid
+        print(result)
     }
 
     override func didReceiveMemoryWarning() {
@@ -21,4 +25,5 @@ class ViewController: UIViewController {
     }
 
 }
+
 

@@ -1,0 +1,16 @@
+PODS:
+  - HandyExtensions (0.1.0)
+
+DEPENDENCIES:
+  - HandyExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  HandyExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HandyExtensions: cba993ec317d756e5ec6bb3c2783b88593bcf7ac
+
+PODFILE CHECKSUM: 93d0fa3a6acf1cd2f87201a7b8e3c41884c11a69
+
+COCOAPODS: 1.11.3

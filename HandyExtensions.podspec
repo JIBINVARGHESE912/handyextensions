@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HandyExtensions'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of HandyExtensions.'
+  s.version          = '4.0'
+  s.summary          = 'HandyExtensions private pod creation for sample project.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
